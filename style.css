@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+div{
+    margin: 200px auto;
+    text-align: center;
+
+ }
+    .name{
+        color: aliceblue;
+    }
+
+#watch{
+    color:aliceblue
+}
+
+
+ button{
+    height: 2.5em;
+    width: 6em;
+    border: none;
+    color: white;
+    border-radius: 10px;
+ }
+ button:hover{
+    cursor: pointer;
+ }
+
+.start-btn{
+    background-color: darkgreen;
+}
+.pause-btn{
+    background-color: gray;
+}
+.stop-btn{
+    background-color: red;
+}
